@@ -1,0 +1,63 @@
+body {
+  text-align: center;
+  align-items: center;
+}
+
+.Home {
+  margin: 20px 400px;
+  height: 60px;
+  width: 600px;
+  border: 1px solid red;
+  /* margin-left: 100px; */
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.Home-amount {
+  float: right;
+}
+.Home-description {
+  float: left;
+}
+.Name input {
+  height: 30px;
+  width: 500px;
+  margin-left: 150px;
+  margin-top: 60px;
+}
+select {
+  height: 40px;
+  width: 500px;
+  margin-left: 150px;
+  margin-top: 30px;
+}
+.Name {
+  padding-left: 20px;
+}
+.Amount input {
+  height: 30px;
+  width: 500px;
+  margin-left: 150px;
+  margin-top: 20px;
+}
+.category input {
+  height: 30px;
+  width: 500px;
+  margin-left: 150px;
+  margin-top: 20px;
+}
+.description textarea {
+  height: 300px;
+  width: 500px;
+  margin-left: 150px;
+  margin-top: 20px;
+}
+button {
+  height: 40px;
+  width: 90px;
+  margin-top: 40px;
+  background-color: red;
+  border: 1px solid black;
+}
+.cancel button {
+  margin-left: 40px;
+}
